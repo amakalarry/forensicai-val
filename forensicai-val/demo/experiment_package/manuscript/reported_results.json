@@ -1,0 +1,10 @@
+{
+ "table_2_caption": "Detection performance on the held-out validation split",
+ "reported_mAP50": 0.887,
+ "reported_precision": 0.84,
+ "reported_recall": 0.799,
+ "figures_cited": [
+  "figures/fig3_class_performance.png",
+  "figures/PR_curve.png"
+ ]
+}

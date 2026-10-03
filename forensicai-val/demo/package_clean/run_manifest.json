@@ -1,0 +1,10 @@
+{
+ "run_id": "run_2026-08-02_9c7d",
+ "created": "2026-08-02T14:22:10Z",
+ "framework": "ultralytics 8.3.x",
+ "artifacts": {
+  "weights/best.pt": "45320b58e6f402901cc51303952ce9c0f44340d986b66e98b5d0fe1eeeba7b9f",
+  "weights/last.pt": "832500337ba72f59b0a0cd8eb90be1b2b543c5d76ad27d7033ac6c96dce3c52c",
+  "results.csv": "8892bea0ad5cff20bee00359672d15280582f2500195e453db74c5ebd083fb52"
+ }
+}

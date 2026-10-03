@@ -1,0 +1,8 @@
+path: ./crime_scene_synth
+train: images/train
+val: images/val
+nc: 13
+names: ['firearm', 'knife', 'blood_stain', 'shell_casing', 'fingerprint_lift', 'footwear_impression', 'narcotics_packet', 'mobile_phone', 'document', 'glass_fragment', 'fiber_sample', 'tool_mark', 'syringe']
+version: 1.2.0
+manifest_sha256: d738df9cd5a22990e3a7720848a42af7328b8782df0eb9bc672929a2583f7243
+n_images: 240

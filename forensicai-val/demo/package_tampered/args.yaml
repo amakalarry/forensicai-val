@@ -1,0 +1,11 @@
+task: detect
+mode: train
+model: yolo11s.pt
+run_id: run_2026-08-02_9c7d
+data: dataset/dataset.yaml
+epochs: 120
+imgsz: 640
+batch: 16
+optimizer: auto
+seed: 0
+device: 0
